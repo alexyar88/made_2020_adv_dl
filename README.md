@@ -1,2 +1,4 @@
-# made_2020_adv_dl
-Advanced deep learning and reinforcement learning homeworks
+# Продвинутое глубокое обучение и обучение с подкреплением
+Домашние задания по курсу:
+
+- [ДЗ №1 - Учимся обыгрывать казино: RL с блекджеком и Дастином Хоффманом](https://github.com/alexyar88/made_2020_adv_dl/tree/main/hw1)
